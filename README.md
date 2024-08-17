@@ -1,5 +1,12 @@
 # DBMS-bash-project
 
+<br />
+<div align="center">
+  <a href="https://github.com/TheMasterAhmedEmadNour/DBMS-bash-project">
+    <img src="https://github.com/user-attachments/assets/45c9e6c4-3ede-4ed6-b1ca-0355a134ed7c" alt="Logo" width="800" height="400">
+  </a>
+</div>
+
 # BashDBMS - Simple Bash Database Management System
 BashDBMS is a lightweight Database Management System (DBMS) implemented in Bash scripting. It provides basic functionalities to manage databases and tables
 
